@@ -17,8 +17,8 @@
 		6FB3E58D23CB27880072C366 /* Type.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FB3E58C23CB27880072C366 /* Type.swift */; };
 		6FB3E58F23CB27E60072C366 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FB3E58E23CB27E60072C366 /* DetailView.swift */; };
 		6FB3E59123CB28D00072C366 /* BottomView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FB3E59023CB28D00072C366 /* BottomView.swift */; };
-		6FB3E59323CB29150072C366 /* MiddleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FB3E59223CB29150072C366 /* MiddleView.swift */; };
 		6FB3E59523CB29730072C366 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FB3E59423CB29730072C366 /* HomeView.swift */; };
+		6FB3E59723CB2B3D0072C366 /* MiddleViiew.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FB3E59623CB2B3C0072C366 /* MiddleViiew.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,8 +34,8 @@
 		6FB3E58C23CB27880072C366 /* Type.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Type.swift; sourceTree = "<group>"; };
 		6FB3E58E23CB27E60072C366 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 		6FB3E59023CB28D00072C366 /* BottomView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BottomView.swift; sourceTree = "<group>"; };
-		6FB3E59223CB29150072C366 /* MiddleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MiddleView.swift; sourceTree = "<group>"; };
 		6FB3E59423CB29730072C366 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		6FB3E59623CB2B3C0072C366 /* MiddleViiew.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MiddleViiew.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,7 +75,7 @@
 				6FB3E57A23CB260B0072C366 /* ContentView.swift */,
 				6FB3E58E23CB27E60072C366 /* DetailView.swift */,
 				6FB3E59023CB28D00072C366 /* BottomView.swift */,
-				6FB3E59223CB29150072C366 /* MiddleView.swift */,
+				6FB3E59623CB2B3C0072C366 /* MiddleViiew.swift */,
 				6FB3E59423CB29730072C366 /* HomeView.swift */,
 				6FB3E57C23CB260C0072C366 /* Assets.xcassets */,
 				6FB3E58123CB260C0072C366 /* LaunchScreen.storyboard */,
@@ -170,7 +170,7 @@
 				6FB3E58B23CB27670072C366 /* Episode.swift in Sources */,
 				6FB3E59523CB29730072C366 /* HomeView.swift in Sources */,
 				6FB3E59123CB28D00072C366 /* BottomView.swift in Sources */,
-				6FB3E59323CB29150072C366 /* MiddleView.swift in Sources */,
+				6FB3E59723CB2B3D0072C366 /* MiddleViiew.swift in Sources */,
 				6FB3E57923CB260B0072C366 /* SceneDelegate.swift in Sources */,
 				6FB3E57B23CB260B0072C366 /* ContentView.swift in Sources */,
 			);
